@@ -2,5 +2,5 @@ module.exports = {
   SECRETE_KEY:
     "OIWDJCNWEAEUYFWAIOUE2394758AWEFHIUHWIAEUFJWegcotiuraaasgiehruhiuIUWRHGIOAUERCIUGWHRI",
   MONGO_URL:
-    "mongodb+srv://dancemanagement:ITXcwxMOZ8nI02BH@dance-cluster.exrvmdi.mongodb.net/sampledatabase",
+    "mongodb+srv://csdeshmukh2014:Chetan%40123456@linkedhashset.oumhu62.mongodb.net/",
 };
